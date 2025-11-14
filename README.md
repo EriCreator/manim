@@ -1,3 +1,8 @@
+@startuml
+Alice -> Bob: test
+@enduml
+
+
 ![logo](logo/cropped.png)
 
 [![Build Status](https://travis-ci.org/3b1b/manim.svg?branch=master)](https://travis-ci.org/3b1b/manim)
