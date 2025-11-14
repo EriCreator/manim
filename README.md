@@ -2,6 +2,13 @@
 Alice -> Bob: test
 @enduml
 
+```plantuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+Alice -> Bob: Another Request
+Bob <-- Alice: Another Response
+```
+
 
 ![logo](logo/cropped.png)
 
